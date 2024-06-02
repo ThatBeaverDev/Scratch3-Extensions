@@ -2,11 +2,6 @@
 (function (Scratch) {
   "use strict";
 
-  /**
-   * @param {unknown} x
-   * @returns {bigint}
-   */
-
   class pmOperatorsExpansion {
     getInfo() {
       return {
